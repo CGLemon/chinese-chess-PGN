@@ -5,3 +5,6 @@
 共 41743 盤棋，僅有 ICCS 格式。
 
 https://drive.google.com/drive/folders/1NScafJyq3qVG7HO77U_4rVQJxbyRKe0O?usp=sharing
+
+## Reference
+* ICCS 表示法: https://www.xqbase.com/protocol/cchess_move.htm
