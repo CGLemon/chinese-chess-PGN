@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1iEz5tsv7Yg6SnXznKgheHabyx_TSqFRS/view?usp=shari
 
 ## 貢獻棋譜
 
-請發 issues ，並將棋譜打包寄送給我，只接受 DhtmlXQ 和 PGN 格式的棋譜。
+請發 issues ，並將棋譜打包寄送給我，目前接受 DhtmlXQ 和 PGN 格式的棋譜，如果是其它格式的棋譜，請附上說明文件。
 
 ## Reference
 * ICCS 表示法: https://www.xqbase.com/protocol/cchess_move.htm
